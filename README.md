@@ -24,7 +24,8 @@
 <a><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/></a>
 
 
-## Discord Information
-[![Discord](https://discord.c99.nl/widget/theme-2/857695226784645160.png)](https://discord.com/users/857695226784645160)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/857695226784645160?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/857695226784645160)
+## Discord Information
+[![Discord](https://discord.c99.nl/widget/theme-1/857695226784645160.png)](https://discord.com/users/857695226784645160)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/857695226784645160?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/857695226784645160)
