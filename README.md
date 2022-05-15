@@ -1,7 +1,8 @@
 # 안녕하세요 쥬얼콩입니다 👋
 # 나이는 18 
 
-<a href="https://discordapp.com/users/857695226784645160" target="_blank"><img src="https://img.shields.io/badge/쥬얼콩#6974-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"/></a>
+### ?:
+![cover](https://cdn.discordapp.com/avatars/857695226784645160/082e5cb62306b677689361ed53ac321f.png?size=4096)
 ## my Information
 
 ### 🌐언어
