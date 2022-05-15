@@ -1,7 +1,7 @@
 # 안녕하세요 쥬얼콩입니다 👋
 # 나이는 18 
 
-### 디자인 문의 Disocrd : 쥬얼콩#6974
+### > 디자인 문의 Disocrd : 쥬얼콩#6974
 ![cover](https://cdn.discordapp.com/banners/857695226784645160/a_8c5fbab0da2565620e4e91436f2f2b44.gif?size=4096)
 ## my Information
 - [x] ps
