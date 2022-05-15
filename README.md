@@ -4,7 +4,8 @@
 ### ?:
 ![cover](https://cdn.discordapp.com/avatars/857695226784645160/082e5cb62306b677689361ed53ac321f.png?size=4096)
 ## my Information
-
+- [x] ps
+- [x] ae
 ### 🌐언어
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/></a>
