@@ -1,6 +1,6 @@
 # 안녕하세요 쥬얼콩입니다 👋
 
-<a href="https://discordapp.com/users/857695226784645160" target="_blank"><img src="https://img.shields.io/badge/쥬얼콩#6974-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"/></a>
+<a href="https://discordapp.com/users/857695226784645160" target="_blank"><img src="https://img.shields.io/badge/Discord-%EC%A5%AC%EC%96%BC%EC%BD%A9%236974-blue"/></a>
 ## my lifo
 
 ### 🌐언어
