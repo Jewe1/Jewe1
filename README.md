@@ -22,6 +22,8 @@
 <a><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/></a>
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 
 
